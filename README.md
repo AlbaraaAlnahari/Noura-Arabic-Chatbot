@@ -1,6 +1,6 @@
 # 🤖 Noura Smart Assistant
 
-![Noura Smart Assistant Screenshot](images/Pic1.Png)
+![Noura Smart Assistant Screenshot](images/Pic1.png)
 
 Noura is a smart Arabic-language chatbot built with Python. It allows users to interact via **voice** and **text** through a beautiful modern GUI built using `CustomTkinter`. The assistant uses speech recognition, text-to-speech, and simple logic to simulate intelligent responses in Arabic.
 
